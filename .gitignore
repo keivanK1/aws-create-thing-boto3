@@ -3,3 +3,5 @@ tempFiles/*
 *.txt
 *.code-workspace
 *.tar.gz
+*.pem
+*.key
