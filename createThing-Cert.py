@@ -24,7 +24,7 @@ def createThing():
         thingArn = data['thingArn']
     elif element == 'thingId':
         thingId = data['thingId']
-	createCertificate()
+        createCertificate()
 
 def createCertificate():
 	global thingClient
